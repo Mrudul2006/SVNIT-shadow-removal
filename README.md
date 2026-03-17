@@ -20,7 +20,7 @@ The pre-trained model weights are hosted on Google Drive. You need to download a
 Use `gdown` to download the zip file directly from the command line:
 
 ```bash
-gdown --id YOUR_GOOGLE_DRIVE_FILE_ID -O weights.zip
+gdown --id 17N36tVUtVKv3NRlNmodBu9yu5kQtI0-g -O weights.zip
 ```
 ### Step 2.2: Extract the Weights
 
