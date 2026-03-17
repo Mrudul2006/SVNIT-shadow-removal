@@ -1,5 +1,5 @@
 
-# SVNIT Shadow Removal Model
+# Efficient Image Shadow Removal utilizing a ConvNeXt-based Fusion Network
 ![NTIRE 2026](https://img.shields.io/badge/NTIRE-2026-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
