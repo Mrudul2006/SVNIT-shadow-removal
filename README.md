@@ -70,7 +70,7 @@ FusionShadowRemoval (Base Model): Our dual-branch implementation utilizes pre-tr
 
 Repository: https://github.com/Yuyok/FusionShadowRemoval-main
 
-Citation
+### Citation
 If you find our work or the modified dual-branch architecture useful, please cite our team's submission and the foundational ShadowRefiner paper:
 
 ```bash
