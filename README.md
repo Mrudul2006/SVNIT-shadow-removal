@@ -74,6 +74,7 @@ Repository: \url{https://github.com/Yuyok/FusionShadowRemoval-main}
 
 Citation
 If you find our work or the modified dual-branch architecture useful, please cite our team's submission and the foundational ShadowRefiner paper:
+
 @InProceedings{NTIRE2026_ShadowRemoval_CV_SVNIT,
     author    = {Trivedi, Daksh and Singh, Divyavardhan and Mohammad, Hammad and Mittal, Mrudul and Upla, Kishor and Raja, Kiran},
     title     = {Efficient Image Shadow Removal utilizing a Dual-Branch ConvNeXt and DWT-FFC Fusion Network},
