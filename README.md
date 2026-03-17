@@ -1,5 +1,7 @@
 
 # SVNIT Shadow Removal Model
+![NTIRE 2026](https://img.shields.io/badge/NTIRE-2026-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
 This repository contains the inference code and resources for the shadow removal model. Follow the instructions below to set up the environment, download the pre-trained weights, and process your images.
 
